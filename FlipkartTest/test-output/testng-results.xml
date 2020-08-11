@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29453" started-at="2020-08-11T03:42:10Z" finished-at="2020-08-11T03:42:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29453" started-at="2020-08-11T03:42:10Z" finished-at="2020-08-11T03:42:39Z">
+      <class name="com.flipkart.FlipkartTest.FlipkartTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.flipkart.FlipkartTest.FlipkartTest@7f9fcf7f]" name="launchBrowser" is-config="true" duration-ms="13951" started-at="2020-08-11T09:12:10Z" finished-at="2020-08-11T09:12:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="FlipkartTask_01()[pri:0, instance:com.flipkart.FlipkartTest.FlipkartTest@7f9fcf7f]" name="FlipkartTask_01" duration-ms="14142" started-at="2020-08-11T09:12:24Z" finished-at="2020-08-11T09:12:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FlipkartTask_01 -->
+        <test-method status="PASS" signature="terminateBrowser()[pri:0, instance:com.flipkart.FlipkartTest.FlipkartTest@7f9fcf7f]" name="terminateBrowser" is-config="true" duration-ms="1329" started-at="2020-08-11T09:12:38Z" finished-at="2020-08-11T09:12:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateBrowser -->
+      </class> <!-- com.flipkart.FlipkartTest.FlipkartTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
